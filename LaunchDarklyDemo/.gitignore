@@ -1,0 +1,19 @@
+﻿# Build artifacts
+bin/
+obj/
+
+# User-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Sensitive config files
+launchSettings.json
+appsettings.json
+appsettings.*.json
+*.env
+
+# Logs
+*.log
